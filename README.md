@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Da-ghost42&label=Profile%20Views&color=5&icon=2&pretty=false" />
+</a>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mboutuil" alt="mboutuil's 42 stats" /></a>
 
 ## 🌐 Socials:
